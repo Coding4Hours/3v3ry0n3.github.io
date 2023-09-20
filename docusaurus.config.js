@@ -96,7 +96,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/3kh0',
+                href: 'https://discord.gg/echodev-971769908205604864',
               }
             ],
           },
