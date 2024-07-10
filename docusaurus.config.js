@@ -12,7 +12,7 @@ const config = {
   tagline: 'everyone get in!',
   favicon: 'img/favicon.ico',
   url: 'https://coding4hours.github.io',
-  baseUrl: '/3v3ry0n3.github.io/',
+  baseUrl: '/docs/',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
