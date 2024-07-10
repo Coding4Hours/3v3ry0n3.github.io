@@ -79,14 +79,6 @@ const config = {
               {
                 label: 'Docs',
                 to: '/docs',
-              },
-              {
-                label: 'Project Links',
-                to: '/docs/links',
-              },
-              {
-                label: 'Bee Movie Script',
-                to: '/docs/beemovie',
               }
             ],
           },
